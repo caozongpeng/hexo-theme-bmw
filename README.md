@@ -10,14 +10,13 @@
 
 - 🏷️ 标签页面: [https://caozongpeng.github.io/tags/](https://caozongpeng.github.io/tags/)
 
-
 - 💏 友链页面: [https://caozongpeng.github.io/friends/](https://caozongpeng.github.io/friends/)
-
 
 - :man: 关于页面: [https://caozongpeng.github.io/about/](https://caozongpeng.github.io/about/)
 
 - :camera: 相册页面: [https://caozongpeng.github.io/photos/](https://caozongpeng.github.io/photos/)
 
+![bmw](https://github.com/caozongpeng/github-static/blob/master/hexo-theme-bmw/bmw.gif)
 
 ## 特性一览
 
@@ -54,4 +53,4 @@
 ## 联系方式
 
 - 📧 Email: kyriecao@163.com
-
+- 
