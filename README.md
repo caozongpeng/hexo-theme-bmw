@@ -1,27 +1,23 @@
-<h1 align="center">版本代号: 微声 | 为自己发声</h1>
-
-![](https://godbmw.com/images/开源项目/开源博客-theme-bmw-微声版发布/theme-bmw.jpg)
-
-[![](https://img.shields.io/badge/made_with-love-orange.svg)](https://godbmw.com/)
-[![](https://img.shields.io/badge/build-passing-green.svg)](https://godbmw.com/)
-[![](https://img.shields.io/badge/release-v4.0.1-blue.svg)](https://godbmw.com/)
-[![](https://img.shields.io/badge/hexo->=3.0-blue.svg)](https://godbmw.com/)
-[![](https://img.shields.io/badge/leancloud-=3.3.1-blue.svg)](https://godbmw.com/)
-[![](https://img.shields.io/badge/license-MIT-blue.svg)](https://godbmw.com/)
-
-- 🇨🇳 [中文文档](https://godbmw.com/passages/2018-11-15-theme-bmw-docs-zh/)
-- Author: [Godbmw](https://godbmw.com/)
+# Theme-BMW
+首先非常感谢`Theme-BMW`主题的- Author: [Godbmw](https://godbmw.com/) 🇨🇳 [中文文档](https://godbmw.com/passages/2018-11-15-theme-bmw-docs-zh/)
 
 ## 在线演示
+- 🏠 首页页面: [https://caozongpeng.github.io/](https://caozongpeng.github.io/)
 
-- 🏠 首页页面: [https://godbmw.com/](https://godbmw.com/)
-- 🗓️ 归档页面: [https://godbmw.com/archives/](https://godbmw.com/archives/)
-- 🔖 分类页面: [https://godbmw.com/categories/](https://godbmw.com/categories/)
-- 🏷️ 标签页面: [https://godbmw.com/tags/](https://godbmw.com/tags/)
-- 💏 友链页面: [https://godbmw.com/friends/](https://godbmw.com/friends/)
-- 👁️ 关于页面: [https://godbmw.com/about/](https://godbmw.com/about/)
+- 🗓️ 归档页面: [https://caozongpeng.github.io/archives/](https://caozongpeng.github.io/archives/)
 
-![](https://godbmw.com/images/开源项目/开源博客-theme-bmw-微声版发布/theme-bmw.gif)
+- 🔖 分类页面: [https://caozongpeng.github.io/categories/](https://caozongpeng.github.io/categories/)
+
+- 🏷️ 标签页面: [https://caozongpeng.github.io/tags/](https://caozongpeng.github.io/tags/)
+
+
+- 💏 友链页面: [https://caozongpeng.github.io/friends/](https://caozongpeng.github.io/friends/)
+
+
+- 👁️ 关于页面: [https://caozongpeng.github.io/about/](https://caozongpeng.github.io/about/)
+
+- :rice_scene: 相册页面: [https://caozongpeng.github.io/photos/](https://caozongpeng.github.io/photos/)
+
 
 ## 特性一览
 
@@ -57,8 +53,5 @@
 
 ## 联系方式
 
-- 📧 Email: yuanxin.me@gmail.com
-- 🐧 交流群: 534018786
-- 👬 二维码：
+- 📧 Email: kyriecao@163.com
 
-![](https://godbmw.com/images/开源项目/开源博客-theme-bmw-微声版发布/qq.png)
