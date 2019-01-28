@@ -14,9 +14,9 @@
 - 💏 友链页面: [https://caozongpeng.github.io/friends/](https://caozongpeng.github.io/friends/)
 
 
-- 👁️ 关于页面: [https://caozongpeng.github.io/about/](https://caozongpeng.github.io/about/)
+- :man: 关于页面: [https://caozongpeng.github.io/about/](https://caozongpeng.github.io/about/)
 
-- :rice_scene: 相册页面: [https://caozongpeng.github.io/photos/](https://caozongpeng.github.io/photos/)
+- :camera: 相册页面: [https://caozongpeng.github.io/photos/](https://caozongpeng.github.io/photos/)
 
 
 ## 特性一览
